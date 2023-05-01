@@ -39,7 +39,7 @@ h1 {
 }
 
 .studio{
-  background: url('./office.jpg');
+  background: url('/office.jpg');
   background-size: cover;
 }
 
